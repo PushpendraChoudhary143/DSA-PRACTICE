@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PushpendraChoudhary143/DSA-PRACTICE/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/PushpendraChoudhary143/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/PushpendraChoudhary143/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PushpendraChoudhary143/DSA-PRACTICE/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PushpendraChoudhary143/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 | [0912-sort-an-array](https://github.com/PushpendraChoudhary143/DSA-PRACTICE/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/PushpendraChoudhary143/DSA-PRACTICE/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/PushpendraChoudhary143/DSA-PRACTICE/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
